@@ -1,10 +1,11 @@
 # Python-WebAutomation-1
 A tiny project to start with webautomation
 
-To start with download few things:
+To start off  download few things:
 
-Chromedriver.exe
+-Chromedriver.exe
 
-To install selenium for python use: pip install selenium
+-Download vs studio
 
-Download vs studio
+-To install selenium for python use: pip install selenium
+
