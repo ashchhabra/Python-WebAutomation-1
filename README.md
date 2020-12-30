@@ -1,2 +1,2 @@
-# ashchhabra-Python-WebAutomation-1
+# Python-WebAutomation-1
 A tiny project to start with webautomation
